@@ -1,1 +1,4 @@
-This directory contains the shell scripts necessary, an explanation is given on how the scripts work
+This directory contains an explanation on how eac scripts works
+0-current\_working\_directory: prints the absolute path of the current working directory.
+1-listit: prints the contents list of the current directory
+
