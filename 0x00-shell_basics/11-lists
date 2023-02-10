@@ -1,2 +1,2 @@
 #!/bin/bash
-lsi -al . .. /boot
+ls -al . .. /boot
