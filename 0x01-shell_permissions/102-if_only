@@ -1,2 +1,2 @@
 #!/bin/bash
-chmown --form=guillaume betty hello
+chmown --from=guillaume betty hello
