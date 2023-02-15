@@ -1,1 +1,2 @@
 #!/bin/bash
+echs $((128+ $TRUEKNOWLEDGE)) 
